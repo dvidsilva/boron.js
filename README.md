@@ -13,7 +13,7 @@ Created a CHANGELOG.
 
 **version 0.1.1**
 
-Added a README
+Added a README.
 
 
 **version 0.0.1**
